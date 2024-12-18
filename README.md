@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bittu Raj</h1>
-<h3 align="center">Dedicated Computer Science student currently in my second year at Atma Ram Sanatan Dharma College, Delhi University.</h3>
+<h3 align="center">Dedicated Computer Science student at Atma Ram Sanatan Dharma College, Delhi University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b2raj&label=Profile%20views&color=0e75b6&style=flat" alt="b2raj" /> </p>
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/bittu-raj-1421a8294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/bittu-raj-1421a8294" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/bittu-raj-1421a8294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bittu-raj-1421a8294" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rajb2_/profilecard/?igsh=zjn2bdboew5tnjbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rajb2_/profilecard/?igsh=zjn2bdboew5tnjbr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/profile/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bitturaj124365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bitturaj124365" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
